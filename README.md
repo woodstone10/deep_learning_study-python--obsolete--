@@ -1,7 +1,6 @@
 # Study on Deep Learning (Neural network, Image, Sound, Natural Language)
 
-- Fundamental of neural network
-- Numeric prediction
+- Numeric prediction with Neural network
 - Image classification
 - Object detection (YOLO)
 - Sound classification
