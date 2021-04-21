@@ -1,4 +1,4 @@
-# Study on Deep Learning with Neural network 
+# Study on Deep Learning (Neural network, Image, Sound, Natural Language)
 
 - Fundamental of neural network
 - Numeric prediction
