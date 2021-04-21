@@ -5,5 +5,5 @@
 - Image classification
 - Object detection (YOLO)
 - Sound classification
-- Stock analysis
 - NLP (Natural Language Processing): Regarding all NLP technologies (Machine and Deep Learning)
+- Stock analysis
